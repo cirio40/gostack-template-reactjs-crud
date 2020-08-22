@@ -10,4 +10,6 @@ const Routes: React.FC = () => (
   </Switch>
 );
 
+console.log();
+
 export default Routes;
